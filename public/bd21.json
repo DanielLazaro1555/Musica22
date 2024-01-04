@@ -548,5 +548,115 @@
     "album": "Let Her Go",
     "numero_de_pista": "3/3",
     "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274462_1.flac",
+    "descripcion": "198274462",
+    "imagen": "Albums/198274462.jpg",
+    "genero": "Rock/General",
+    "titulo": "Dancing With Mr. D",
+    "artista": "The Rolling Stones",
+    "album": "Goats Head Soup (Remastered 2009) [Explicit]",
+    "numero_de_pista": "1/10",
+    "Año": "1973"
+  },
+  {
+    "archivo_musica": "Albums/198274462_2.flac",
+    "descripcion": "198274462",
+    "imagen": "Albums/198274462.jpg",
+    "genero": "Rock/General",
+    "titulo": "100 Years Ago (Remastered)",
+    "artista": "The Rolling Stones",
+    "album": "Goats Head Soup (Remastered 2009) [Explicit]",
+    "numero_de_pista": "2/10",
+    "Año": "1973"
+  },
+  {
+    "archivo_musica": "Albums/198274462_3.flac",
+    "descripcion": "198274462",
+    "imagen": "Albums/198274462.jpg",
+    "genero": "Rock/General",
+    "titulo": "Coming Down Again (Remastered)",
+    "artista": "The Rolling Stones",
+    "album": "Goats Head Soup (Remastered 2009) [Explicit]",
+    "numero_de_pista": "3/10",
+    "Año": "1972"
+  },
+  {
+    "archivo_musica": "Albums/198274462_4.flac",
+    "descripcion": "198274462",
+    "imagen": "Albums/198274462.jpg",
+    "genero": "Rock/General",
+    "titulo": "Doo Doo Doo Doo Doo (Heartbreaker)",
+    "artista": "The Rolling Stones",
+    "album": "Goats Head Soup (Remastered 2009) [Explicit]",
+    "numero_de_pista": "4/10",
+    "Año": "1973"
+  },
+  {
+    "archivo_musica": "Albums/198274462_5.flac",
+    "descripcion": "198274462",
+    "imagen": "Albums/198274462.jpg",
+    "genero": "Rock/General",
+    "titulo": "Angie (Remastered 2009)",
+    "artista": "The Rolling Stones",
+    "album": "Goats Head Soup (Remastered 2009) [Explicit]",
+    "numero_de_pista": "5/10",
+    "Año": "1973"
+  },
+  {
+    "archivo_musica": "Albums/198274462_6.flac",
+    "descripcion": "198274462",
+    "imagen": "Albums/198274462.jpg",
+    "genero": "Rock/General",
+    "titulo": "Silver Train (Remastered)",
+    "artista": "The Rolling Stones",
+    "album": "Goats Head Soup (Remastered 2009) [Explicit]",
+    "numero_de_pista": "6/10",
+    "Año": "1972"
+  },
+  {
+    "archivo_musica": "Albums/198274462_7.flac",
+    "descripcion": "198274462",
+    "imagen": "Albums/198274462.jpg",
+    "genero": "Rock/General",
+    "titulo": "Hide Your Love (Remastered)",
+    "artista": "The Rolling Stones",
+    "album": "Goats Head Soup (Remastered 2009) [Explicit]",
+    "numero_de_pista": "7/10",
+    "Año": "1973"
+  },
+  {
+    "archivo_musica": "Albums/198274462_8.flac",
+    "descripcion": "198274462",
+    "imagen": "Albums/198274462.jpg",
+    "genero": "Rock/General",
+    "titulo": "Winter (Remastered)",
+    "artista": "The Rolling Stones",
+    "album": "Goats Head Soup (Remastered 2009) [Explicit]",
+    "numero_de_pista": "8/10",
+    "Año": "1973"
+  },
+  {
+    "archivo_musica": "Albums/198274462_9.flac",
+    "descripcion": "198274462",
+    "imagen": "Albums/198274462.jpg",
+    "genero": "Rock/General",
+    "titulo": "Can You Hear The Music (Remastered)",
+    "artista": "The Rolling Stones",
+    "album": "Goats Head Soup (Remastered 2009) [Explicit]",
+    "numero_de_pista": "9/10",
+    "Año": "1973"
+  },
+  {
+    "archivo_musica": "Albums/198274462_10.flac",
+    "descripcion": "198274462",
+    "imagen": "Albums/198274462.jpg",
+    "genero": "Rock/General",
+    "titulo": "Star Star (Remastered) [Explicit]",
+    "artista": "The Rolling Stones",
+    "album": "Goats Head Soup (Remastered 2009) [Explicit]",
+    "numero_de_pista": "10/10",
+    "Año": "1973"
   }
 ]
