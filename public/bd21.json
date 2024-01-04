@@ -339,5 +339,181 @@
     "album": "x (Deluxe Edition)",
     "numero_de_pista": "15/15",
     "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_1.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "Welcome To New York",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "1/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_2.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "Blank Space",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "2/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_3.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "Style",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "3/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_4.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "Out Of The Woods",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "4/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_5.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "All You Had To Do Was Stay",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "5/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_6.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "Shake It Off",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "6/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_7.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "I Wish You Would",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "7/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_8.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "Bad Blood",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "8/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_9.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "Wildest Dreams",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "9/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_10.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "How You Get The Girl",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "10/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_11.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "This Love",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "11/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_12.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "I Know Places",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "12/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_13.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "Clean",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "13/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_14.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "Wonderland",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "14/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_15.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "You Are In Love",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "15/16",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274460_16.flac",
+    "descripcion": "198274460",
+    "imagen": "Albums/198274460.jpg",
+    "genero": "Pop/General",
+    "titulo": "New Romantics",
+    "artista": "Taylor Swift",
+    "album": "1989 (Deluxe)",
+    "numero_de_pista": "16/16",
+    "Año": "2014"
   }
 ]
