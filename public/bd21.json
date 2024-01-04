@@ -515,5 +515,38 @@
     "album": "1989 (Deluxe)",
     "numero_de_pista": "16/16",
     "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274461_1.flac",
+    "descripcion": "198274461",
+    "imagen": "Albums/198274461.jpg",
+    "genero": "Pop",
+    "titulo": "Let Her Go",
+    "artista": "Passenger",
+    "album": "Let Her Go",
+    "numero_de_pista": "1/3",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274461_2.flac",
+    "descripcion": "198274461",
+    "imagen": "Albums/198274461.jpg",
+    "genero": "Pop",
+    "titulo": "Let Her Go (Acoustic)",
+    "artista": "Passenger",
+    "album": "Let Her Go",
+    "numero_de_pista": "2/3",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274461_3.flac",
+    "descripcion": "198274461",
+    "imagen": "Albums/198274461.jpg",
+    "genero": "Pop",
+    "titulo": "Let Her Go (Live Version)",
+    "artista": "Passenger",
+    "album": "Let Her Go",
+    "numero_de_pista": "3/3",
+    "Año": "2012"
   }
 ]
